@@ -1,4 +1,4 @@
 # PaloAlto
 Taller
-Programar tiggers de listas. Schedule
+Programar triggers de listas. Schedule
 Listas publicas
